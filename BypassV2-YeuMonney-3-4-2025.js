@@ -926,7 +926,7 @@
     _0x33be0b.appendChild(_0x4c8255);
     const _0x5a1722 = document.createElement("div");
     _0x5a1722.className = "author-text";
-    _0x5a1722.textContent = "BaoNgoCcoder && Dec By SiuSiu";
+    _0x5a1722.textContent = "BaoNgoc & Remake: cbeios";
     _0x57e49a.appendChild(_0x33be0b);
     _0x57e49a.appendChild(_0x5a1722);
     document.body.appendChild(_0x57e49a);
